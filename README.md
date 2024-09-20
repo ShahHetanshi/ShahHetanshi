@@ -26,10 +26,11 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahHetanshi&show_icons=true&locale=en" alt="mitali-dxt" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShahHetanshi" height="30" width="40" /></a>
+<a href="https://twitter.com/hetanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShahHetanshi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hetanshi-shah-61b399268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetanshi-shah-61b399268/" height="30" width="40" /></a>
 </p>
 
